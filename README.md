@@ -70,18 +70,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshini-2005-prog&theme=tokyonight" />
 </p>
 
----
-
-## 🚀 Featured Projects
-- 🔹 ML Project: Predicting outcomes using real-world datasets  
-- 🔹 DSA Practice Repo: Structured solutions with explanations  
-- 🔹 Mini Web Project: Built using HTML & CSS  
-
-👉 More projects coming soon as I learn and grow
 
 ---
 
 ## 🚀 Vision
-- Build ML systems that solve **real-world problems**
-- Master DSA until problem-solving becomes **second nature**
-- Grow into an engineer who can **design + scale systems**
+-Use ML to solve real problems
+-Practice DSA until it’s easy
+-Become an engineer who can build and scale systems
