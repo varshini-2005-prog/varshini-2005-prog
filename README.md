@@ -1,6 +1,8 @@
 <!-- Simple Animated Intro -->
 
-
+<p align="center">
+  />color=00BFFF&size=24&center=true&vCenter=true&width=500&lines=Learning+ML+with+purpose;Improving+through+DSA+daily" />
+</p>
 <h1 align="center">Heyy👋, I'm Varshini</h1>
 <h3 align="center">Aspiring Machine Learning Engineer | DSA Learner</h3>
 
