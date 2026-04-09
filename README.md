@@ -1,22 +1,20 @@
-<!-- 🔥 Animated Typing Intro -->
+<!-- Simple Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Machine+Learning+Explorer;DSA+Problem+Solver;Future+Software+Engineer;Building+Real+World+Projects;Consistency+is+my+superpower" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=500&lines=Learning+ML+with+purpose;Improving+through+DSA+daily" />
 </p>
 
-<h1 align="center">Hey 👋, I'm Varshini</h1>
-<h3 align="center">I turn data into decisions & problems into structured solutions 🚀</h3>
+<h1 align="center">Heyy👋, I'm Varshini</h1>
+<h3 align="center">Aspiring Machine Learning Engineer | DSA Learner</h3>
 
 ---
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🔭 Currently building **real-world ML projects**
 
-🌱 Growing daily in **DSA | ML **
+🌱 Growing daily in **DSA | Machine Learning**
 
 🧠 I focus on **thinking patterns, not just coding**
 
-⚡ *"Consistency beats intensity when building real skills."*
 
 ---
 
@@ -63,6 +61,7 @@
 </p>
 
 💡 Currently focusing on mastering fundamentals before scaling into advanced technologies
+
 ---
 
 ## 📊 GitHub Analytics
@@ -70,11 +69,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=varshini-2005-prog&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshini-2005-prog&theme=tokyonight" />
 </p>
-
----
-
-## 🐍 Contribution Snake (Animated 🔥)
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
