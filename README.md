@@ -4,35 +4,27 @@
 </p>
 
 <h1 align="center">Hey 👋, I'm Varshini</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | DSA Learner</h3>
+<h3 align="center">🎓 B.Tech Artificial Intelligence & Machine Learning (Final Year)</h3>
 
 ---
 
 <img align="right" alt="girl coding" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
 
-🌱 Growing daily in **DSA | Machine Learning**
+🤖 Building agentic AI systems, RAG pipelines & multi-agent architectures
+🔍 Interested in Generative AI, NLP, Computer Vision & MLOps
+💻 Python | Flask | SQL | Machine Learning | Deep Learning
 
-🧠 I focus on **thinking patterns, not just coding**
+## Featured Projects
+- 🚀 SkillForge AI – Multi-agent DSA Tutor with RAG
+- 🩺 PneumoScan AI – Pneumonia Detection from X-rays
+- 🎙️ PODSAGE AI – Intelligent Podcast Summarization
+- 💳 Credit Score Prediction – ML-based credit risk analysis
 
-⚡ *"Consistency beats intensity when building real skills."*
-
----
-
-## 🧠 DSA Arena
-- Solving problems on LeetCode & HackerRank  
-- Strong focus on **Patterns + Optimization**
-- Goal: Make problem-solving **instinctive**
-
----
-
-## 🤖 ML Lab
-- Working on **practical ML use-cases**
-- Tools: Pandas, NumPy, Scikit-learn
-- Turning raw data → meaningful insights
-
----
-
-## 🌐 Let's Connect & Explore 🚀
+## Currently Learning
+- Agentic AI workflows
+- Advanced NLP
+- Graph Algorithms & DSA
+- MLOps and deployment
 <p align="left">
 
 <a href="https://github.com/varshini-2005-prog">
